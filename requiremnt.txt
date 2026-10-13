@@ -22,4 +22,9 @@ langchain
 langchain-aws 
 langchain-community 
 langchain-text-splitters 
-faiss-cpu
+streamlit
+influxdb-client
+pandas
+plotly
+python-dotenv
+streamlit-autorefresh
