@@ -19,7 +19,7 @@
 ![LLM RAG](assets/llmrag.png)
 
 ### MLflow Tracking
-![MLflow](assets/mlfow.png)
+![MLflow](assets/mlfow-1.png)
 
 ### Model Artifacts
 ![Model Artifacts](assets/modelart.png)
